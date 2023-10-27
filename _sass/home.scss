@@ -1,0 +1,17 @@
+.home_page_posts {
+    gap: 20px;
+    display: grid;
+
+    .post {
+        h2 {
+            margin: 0;
+            font-weight: 400;
+
+            a {
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}

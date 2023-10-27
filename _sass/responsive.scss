@@ -1,0 +1,29 @@
+@media (min-width: 640px) {
+    .hide {
+        display: grid;
+    }
+
+    main {
+        margin: 40px auto;
+    }
+
+    header {
+        padding: 20px 0;
+
+        .header_wrapper {
+            grid-auto-flow: column;
+
+            .toggle {
+                display: none;
+            }
+
+            nav {
+                margin-top: 0;
+                align-items: center;
+                grid-auto-flow: column;
+            }
+        }
+    }
+}
+
+// @media (min-width: 768px) {}
