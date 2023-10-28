@@ -7,8 +7,16 @@
     }
 
     article {
+        line-height: 160%;
+
         a {
             color: #4338ca;
+        }
+
+        ul,
+        ol,
+        p {
+            margin: 20px 0;
         }
 
         img {
@@ -19,15 +27,21 @@
         table {
             width: 100%;
             margin: 20px 0;
+            overflow: auto;
+            display: block;
             border-collapse: collapse;
 
             tr {
                 margin: 0;
                 padding: 0;
 
+                &:nth-of-type(even) {
+                    background: #efefef;
+                }
+
                 td {
                     padding: 10px;
-                    border: 1px solid;
+                    border: 1px solid rgba(0, 0, 0, 0.5);
                 }
             }
         }
