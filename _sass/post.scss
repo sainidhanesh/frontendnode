@@ -23,6 +23,15 @@
             margin: 20px 0;
         }
 
+        p {
+            code.language-plaintext {
+                color: #fff;
+                background: #323232;
+                padding: 1px 6px;
+                border-radius: 6px;
+            }
+        }
+
         img {
             width: 100%;
             height: auto;
