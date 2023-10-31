@@ -1,11 +1,14 @@
 ---
 layout: post
 title: CSS Mouse Out Transition Effect
+categories: css, transition
+permalink: css-mouse-out-transition-effect
 ---
 
 CSS, or Cascading Style Sheets, is a fundamental technology for designing and styling web pages. It offers a wide array of features to make your website visually appealing and interactive. Among these features, CSS mouse-out transition effects play a crucial role in enhancing the user experience by adding a touch of elegance to web elements.
 
-![{{page.title}}](/assets/img/mouse-transition-effect.gif)
+{% assign src = 'mouse-transition-effect.gif' %}
+{% include img.html src=src %}
 
 ## Mouse-out transition effect using HTML and CSS
 

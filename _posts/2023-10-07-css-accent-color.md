@@ -1,6 +1,8 @@
 ---
 layout: post
-title: What is CSS Accent Color?
+title: CSS Accent Color Property
+categories: css
+permalink: css-accent-color-property
 ---
 
 ## What is CSS Accent Color?

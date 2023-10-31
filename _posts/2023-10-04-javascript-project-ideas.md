@@ -1,7 +1,8 @@
 ---
 layout: post
-title: 100 Javascript project ideas
+title: 100+ Javascript project ideas for Beginner to Advanced 2023
 categories: javascript
+permalink: javascript-project-ideas
 ---
 
 JavaScript, the versatile language that powers the dynamic web, is an essential skill for any aspiring developer. Whether you're just starting your coding journey or consider yourself a seasoned pro, there's always room to explore and expand your skills. In this article, we will walk you through the best 100 JavaScript project ideas, categorized from beginner to advanced, to help you hone your skills, build your portfolio, and impress potential employers. So, grab your favorite code editor, and let's dive into the world of JavaScript projects!

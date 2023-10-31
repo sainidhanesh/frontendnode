@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Build random password generator using javascript
+categories: javascript, tool
+permalink: random-password-generator-using-javascript
 ---
 
 In the digital age, where our lives are intertwined with various online services, the need for strong password security cannot be emphasized enough. Passwords are your first line of defense in protecting your personal and sensitive information from prying eyes. However, creating complex and unique passwords for each account can be a daunting task. That's where a random and strong password generator comes to the rescue. In this article, we will explore how to build one using JavaScript.

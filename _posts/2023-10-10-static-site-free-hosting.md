@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 
+title: 10 best hosting for static site 2023
+categories: hosting
+permalink: best-static-app-hosting
 ---
 
 Static site hosting is a type of web hosting that stores your website's files as static files, such as HTML, CSS, and JavaScript. This means that your website's files do not change dynamically when users visit your site. Static site hosting is a good option for websites that do not require dynamic content, such as personal websites, portfolios, and landing pages.

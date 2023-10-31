@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Google Sheet Data to Json
+title: Use Google Sheet Data to JSON API Endpoint 2023
+categories: google-sheet, apps-script, json
+permalink: google-sheet-to-json-api-endpoint
 ---
 
 Google Sheets is a versatile tool for data management, offering user-friendly spreadsheets for various purposes. However, when it comes to sharing or integrating your data into web applications or other systems, using JSON (JavaScript Object Notation) format is often more convenient and efficient. In this article, we'll explore how to convert Google Sheet data to JSON using Google Script, unleashing the potential of your data like never before.

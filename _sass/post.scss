@@ -7,10 +7,14 @@
     }
 
     article {
-        line-height: 160%;
+        line-height: 170%;
 
         a {
-            color: #4338ca;
+            color: #0075CF;
+
+            @media (prefers-color-scheme: dark) {
+                color: #3091DC;
+            }
         }
 
         ul,
@@ -21,6 +25,7 @@
 
         img {
             width: 100%;
+            height: auto;
             margin: 10px 0;
         }
 
@@ -35,13 +40,13 @@
                 margin: 0;
                 padding: 0;
 
-                &:nth-of-type(even) {
-                    background: #efefef;
-                }
-
                 td {
                     padding: 10px;
-                    border: 1px solid rgba(0, 0, 0, 0.5);
+                    border: 1px solid #242424;
+
+                    @media (prefers-color-scheme: dark) {
+                        border-color: #b2b2b2;
+                    }
                 }
             }
         }

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Random Color Code (HEX, HSL, RGB) Generator using Javascript
+categories: javascript, HSL, RGB, HEX
+permalink: random-color-generator-using-javascript
 ---
 
 In today's digital age, web development and design have become more versatile and creative than ever before. One of the essential aspects of web design is color. Colors play a crucial role in capturing a visitor's attention and conveying the right message. As a web developer or designer, you might often find yourself in need of random color codes for various purposes. This is where a Random Color Code Generator using JavaScript comes into play. In this article, we'll explore the world of color codes, how they work, and how to create a simple but effective random color code generator using JavaScript.

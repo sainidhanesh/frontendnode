@@ -2,6 +2,7 @@
 layout: post
 title: Top 10 chrome extensions for web developers in 2023
 categories: web, extensions
+permalink: top-chrome-extensions-for-web-developers
 ---
 
 In the fast-paced world of web development, staying ahead of the curve is crucial. Chrome extensions are valuable tools that can significantly enhance a developer's productivity and efficiency. In this comprehensive guide, we will explore the top 10 Chrome extensions for web developers in 2023, each designed to streamline your workflow and simplify complex tasks.

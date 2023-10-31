@@ -1,13 +1,16 @@
 ---
 layout: post
 title: Typing Effect using CSS
+categories: css, animation
+permalink: typing-effect-using-css
 ---
 
 The typing effect, often seen on landing pages or in hero sections of websites, is an animation that simulates the process of typing text on the screen as if someone were actively engaging with the content. It can be used for various purposes, such as highlighting key messages, providing an engaging introduction, or simply adding a touch of interactivity.
 
 The typing effect is an excellent way to capture your visitors' attention. It adds a dynamic element to your website, making it more engaging and interactive.
 
-![{{page.title}}](/assets/img/typing-effect.png)
+{% assign src = 'typing-effect.png' %}
+{% include img.html src=src %}
 
 ## Typing Effect with CSS
 

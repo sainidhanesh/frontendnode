@@ -2,6 +2,7 @@
 layout: post
 title: Top 10 Frontend Framework 2023
 categories: frontend, framework
+permalink: top-frontend-frameworks
 ---
 
 Frontend development is a dynamic field, and staying up-to-date with the latest technologies is crucial to building responsive and engaging web applications. In 2023, the web development landscape is evolving rapidly, and frontend frameworks play a pivotal role in this evolution. In this article, we'll explore the top 10 frontend frameworks that are set to make a significant impact in 2023.

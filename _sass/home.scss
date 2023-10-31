@@ -5,13 +5,44 @@
     .post {
         h2 {
             margin: 0;
-            font-weight: 400;
+            font-weight: 600;
 
             a {
                 &:hover {
                     text-decoration: underline;
                 }
             }
+        }
+
+        div {
+            margin-top: 6px;
+
+            .tags {
+                margin: 0 2px;
+                padding: 2px 3px;
+                font-size: smaller;
+                border-radius: 3px;
+                background: #9c9c9c1a;
+                border: 1px solid rgba(0, 0, 0, 0.3);
+            }
+        }
+    }
+}
+
+.pagination {
+    gap: 20px;
+    margin-top: 20px;
+    display: flex;
+
+    a {
+        color: #0075CF;
+        font-weight: 700;
+        @media (prefers-color-scheme: dark) {
+            color: #3091DC;
+        }
+
+        &:hover {
+            text-decoration: underline;
         }
     }
 }

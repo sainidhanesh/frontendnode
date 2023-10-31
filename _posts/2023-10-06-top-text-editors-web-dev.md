@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Top 5 code editor for web development in 2023
-categories: web, text, code, editor
+categories: web, code, editor
+permalink: top-code-editors-for-web-development
 ---
 In the fast-paced world of web development, having the right tools at your disposal is essential. Among these tools, a code editor is paramount. It serves as the canvas where web developers bring their ideas to life, and in 2023, the landscape of web development is more exciting than ever. In this article, we'll explore the top 5 code editors that are set to make a significant impact on web development this year.
 

@@ -7,15 +7,22 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-syntax:
-  theme: stackoverflow-light
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-minifier
+  - jekyll-compress-images
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
 
 permalink: /:title
+
+paginate: 10
+paginate_path: "/page:num/"
 
 sass:
   sass_dir: _sass

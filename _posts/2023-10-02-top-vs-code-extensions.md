@@ -2,6 +2,7 @@
 layout: post
 title: Top 10 VS Code extensions for web developers in 2023
 categories: vscode, extensions
+permalink: top-vs-code-extensions-for-web-developers
 ---
 
 Visual Studio Code, commonly known as VS Code, has become one of the most beloved and widely used code editors among web developers. Its customizable and extensible nature has led to the creation of numerous extensions that enhance the development experience. In this article, we will explore the top 10 VS Code extensions that every web developer should consider using in 2023.

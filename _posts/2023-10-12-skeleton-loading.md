@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Skeleton effect using HTML and CSS
+title: Skeleton loading effect using HTML and CSS
+categories: css, animation, loading
+permalink: skeleton-effect-using-css
 ---
 
 Creating a skeleton loading effect using HTML and CSS is a great way to improve the user experience while waiting for content to load. This effect typically involves showing a simple, animated placeholder before the actual content appears. Here's a basic example of how to create a skeleton loading effect:
 
-![{{page.title}}](/assets/img/skeleton-animation.gif)
+{% assign src = 'skeleton-animation.gif' %}
+{% include img.html src=src %}
 
 ## Skeleton loading effect using HTML and CSS
 ### HTML
